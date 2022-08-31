@@ -1,6 +1,6 @@
 # julia-sandbox
-Playground to explore Julia
-
+Playground to explore Julia. Some resources that I found helpful:
+- https://ucidatascienceinitiative.github.io/IntroToJulia/
 
 ## Installation
 To install Julia on my local machine for use in Jupyter notebooks, I followed these steps:
