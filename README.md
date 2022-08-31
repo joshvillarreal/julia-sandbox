@@ -10,5 +10,7 @@ To install Julia on my local machine for use in Jupyter notebooks, I followed th
 julia> using Pkg
 julia> Pkg.add("IJulia")
 ```
-This took about a minute to run on my machine.
+
+  This took about a minute to run on my machine.
+
 3. You should now be able to launch Jupyter, and can create a notebook using Julia.
